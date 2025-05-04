@@ -78,10 +78,22 @@
 
 <h2>🔥 GitHub Stats: </h2>
 
-<div>
-<p>&nbsp;<img height="300" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=hammadahmed987&show_icons=true&locale=en" alt="hammadahmed987" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hammadahmed987&show_icons=true&locale=en" 
+         alt="GitHub Stats" 
+         style="height: 300px; width: 400px; object-fit: contain; border: 1px solid #444; border-radius: 10px;" />
+  </div>
 
-<p><img align="right" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadahmed987&" alt="hammadahmed987" /></p>
+  <div style="height: 150px; width: 200px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadahmed987" 
+         alt="GitHub Streak" 
+         style="height: 300px; width: 400px; object-fit: contain; border: 1px solid #444; border-radius: 10px;" />
+  </div>
+</div>
+
+
+
 
 </div>
 
